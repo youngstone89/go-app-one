@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/youngstone89/go-module-one/api/kafka"
+	"github.com/youngstone89/go-module-one/pkg/kafka"
 )
 
 func main() {
